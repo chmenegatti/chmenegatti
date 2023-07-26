@@ -24,7 +24,7 @@ jobs:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - name: Checkout
-        uses: actions/checkout@v3.5.3
+        uses: chmenegatti/checkout@v3.5.3
 
     # Generates the snake  
       - uses: chmenegatti/snk@master
