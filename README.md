@@ -156,6 +156,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=chmenegatti&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
+
 ### ✍️ Random Dev Quote
 
 <div align="center">
