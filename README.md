@@ -150,12 +150,22 @@
 
 
 ## 🏆 GitHub Trophies
+
+<div align="center">
+
 ![](https://github-profile-trophy.vercel.app/?username=chmenegatti&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
+</div>
 ### ✍️ Random Dev Quote
+
+<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+</div>
+
+-----
+
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=chmenegatti&icon=0&color=0)](https://visitcount.itsvg.in)
