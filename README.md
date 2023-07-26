@@ -138,7 +138,7 @@
 <br clear="both">
 
 ## My Contribution snake
-![Contribution snake example](https://github.com/chemenegatti/chmenegatti/blob/output/github-contribution-grid-snake.svg)
+![Contribution snake example](https://github.com/chmenegatti/chmenegatti/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
