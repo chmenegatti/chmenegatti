@@ -25,7 +25,7 @@
 - 🚀 Building backend systems with **Go** and **Rust**
 - ☸️ Focused on **Kubernetes**, observability and cloud-native architecture
 - 🧠 I enjoy performance tuning, distributed systems and DevOps workflows
-- 🍿 Fun fact: I make serious popcorn
+- 🍿 Fun fact: I make serious popcorn and nice coffee
 
 I’m a software engineer who likes to combine product mindset with low-level performance and reliability. My day-to-day work is usually around backend APIs, distributed services, CI/CD pipelines and infra automation.
 
